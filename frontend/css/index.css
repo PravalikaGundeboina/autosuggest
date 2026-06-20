@@ -1,36 +1,50 @@
-h1{
-    color: red;
+h1 {
+    color : red;
+
 }
 #heading-2{
-    color :blue;
+    color:blue;
 }
-.heading{
-    color :orange
+
+.head1{
+    color: aqua;
 }
-.para{
+.Para{
     border: 2px;
-    border-color: blue;
-    border-style:solid ;
+    border-color: black;
+    border-style: solid;
     padding: 20px;
     text-align: center;
 }
 .navbar{
-    border: 3px;
+    border:3px;
     border-style: solid;
     border-color: black;
     padding: 15px;
-    background-color:green;
-    text-align: center;}
-    
-.navbar a{
-    color:red;
-    padding: 15px;
-    text-decoration:none;
+    background-color: chartreuse;
+    text-align: center;
+}
 
+.navbar a{
+    color:black;
+    padding: 15px;
+    text-decoration: none;
 }
 .navbar a:hover{
-    background-color: rgb(73, 42, 165);
+    background-color: rgb(255, 238, 0);
 }
 body{
-    margin:0px ;
+    margin: 0%;
+}
+.card{
+    border: 2px solid black;
+    width: 300px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 40px ;
+
+}
+.card img{
+    width: 100%;
+    height:400%
 }
