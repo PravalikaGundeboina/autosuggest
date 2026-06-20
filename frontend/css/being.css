@@ -1,7 +1,6 @@
 body{
     margin: 50px;
 }
-
 .Para{
     border: 2px;
     border-color: black;
@@ -39,8 +38,12 @@ h1{
 .main-content{
     text-align: center;
 }
+.online-dot{
+    color: green;
+    font-size: 20px;
+}
 .being{
-    color: rgb(21, 23, 19);
+    color: rgb(0, 23, 128);
 }
 .search-box{
     border-radius:20px;
@@ -49,9 +52,8 @@ h1{
     padding-top:10px;
     padding-bottom:10px;
 
-
 }
 .lens{
-    position:relative;
-    left :40px;
+    position: relative;
+    left:30px
 }
